@@ -3,7 +3,7 @@
 <h3 align="center">Sometimes I like programming, sometimes I hate it. What is it? Is it love?</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andriksokol&label=Profile%20views&color=0e75b6&style=flat" alt="andriksokol" /> </p>
-<img align ="right" src= "https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="coding" width="200px"/> 
+<img align ="right" src= "https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="coding" /> 
 - 💬 Ask me about **React or c++**
 
 - 📫 How to reach me **AndrikSokol31@gmail.com**
