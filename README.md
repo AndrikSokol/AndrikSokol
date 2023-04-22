@@ -1,4 +1,4 @@
-<img align ="center" src= "https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="coding" width="100px"/> 
+<img align ="center" src= "https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="coding" width="40%"/> 
 <h1 align="center">Hi 👋, I'm Andrey</h1>
 <h3 align="center">Sometimes I like programming, sometimes I hate it. What is it? Is it love?</h3>
 
